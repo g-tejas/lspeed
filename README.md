@@ -1,0 +1,2 @@
+# lspeed
+LSP but fast
