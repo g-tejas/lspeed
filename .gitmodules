@@ -1,0 +1,6 @@
+[submodule "third_party/simdjson"]
+	path = third_party/simdjson
+	url = https://github.com/simdjson/simdjson
+[submodule "third_party/clang-tools-extra/clangd"]
+	path = third_party/clang-tools-extra/clangd
+	url = https://github.com/llvm/llvm-project
